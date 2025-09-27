@@ -1,1 +1,7 @@
-oui
+git remote -v
+git push -u origin main
+jai voulue push cette erreur est apparue : error: failed to push some refs to 'https://github.com/bilalaitelhaj/revision.git'
+raison: oublie du commit 
+solution: commit 
+
+
